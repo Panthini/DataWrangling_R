@@ -4,8 +4,8 @@
 # Tidy data is a standard structural data to map the meaning of dataset. 
 # Weather the dataset is tidy or messy, is depending on the matching of rows, 
 # columns and tables with the observations and variable types (Wickham, 2014). 
-# Sports_and_recreation dataset in its current form is not considered to be in 
-# tidy format due to few reasons:
+# Sports_and_recreation DATASET IN ITS CURRENT FORM IS NOT CONSIDERED TO BE IN
+# TIDY FORMAT DUE TO FEW REASONS:
 #   .	Variables are stored in both rows and columns, in reality variables should 
 #     be stored in column and observations should be stored in rows.
 #   .	Columns in the same table contain multiple types of observations and variables.
